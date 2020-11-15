@@ -50,7 +50,7 @@ main .features {
     float: left;
     color: #fff;
     margin-top: 100px;
-    text-align: left;
+    text-align: center;
     width: 75%;
 }
 
@@ -61,4 +61,18 @@ main .features h1 {
 main .features p {
     max-width: 400px;
     margin: 20px auto;
+}
+
+.alert-warning {
+    float: left;
+    clear: both;
+    width: 400px;
+    margin: 20px 34%;
+    text-align: left;
+}
+
+form {
+    margin-left: 32%;
+    width: 500px;
+    margin-top: 50px;
 }
